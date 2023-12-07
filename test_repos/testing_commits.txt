@@ -1,1 +1,1 @@
-branch new_branch
+main ветка
